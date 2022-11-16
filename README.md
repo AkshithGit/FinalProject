@@ -28,3 +28,13 @@ Configuring Jenkins
 ===================
 
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+
+
+Installing Git on the Jenkins Server
+====================================
+sudo yum update -y 
+
+sudo yum install git -y 
+
+git version
+
