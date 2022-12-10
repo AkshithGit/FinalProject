@@ -27,7 +27,7 @@ sudo systemctl status jenkins
 Configuring Jenkins 
 ===================
 
-sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+"sudo cat /var/lib/jenkins/secrets/initialAdminPassword"
 
 
 Installing Git on the Jenkins Server
