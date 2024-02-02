@@ -7,4 +7,5 @@ jenkins --version
 date
 echo "This is the end of the world "
 echo "******************************"
+echo "Bye"
 
